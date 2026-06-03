@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tomoya Hattori 👋</h1>
+<h1 align="center">Hi, I'm Uya Hattori 👋</h1>
 
 <p align="center">
   <b>Full-cycle engineer with 15+ years in IT — now reskilling into modern development.</b><br>

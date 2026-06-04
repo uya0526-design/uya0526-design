@@ -116,8 +116,8 @@ I publish what I learn, in both languages:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=uya0526-design&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uya0526-design&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-lac-kappa-ja9si21d7v.vercel.app/api?username=uya0526-design&show_icons=true&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-lac-kappa-ja9si21d7v.vercel.app/api/top-langs/?username=uya0526-design&layout=compact&hide_border=true" />
 </p>
 
 ---

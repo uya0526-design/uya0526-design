@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Uya Hattori 👋</h1>
+<h1 align="center">Hi, I'm Uya 👋</h1>
 
 <p align="center">
   <b>Full-cycle engineer with 15+ years in IT — now reskilling into modern development.</b><br>
@@ -127,7 +127,7 @@ I publish what I learn, in both languages:
 
 <br>
 
-## はじめまして、服部 友哉です 👋
+## はじめまして、Uya です 👋
 
 IT業界で15年以上、要件定義・設計・開発・テスト・運用保守・顧客折衝まで、システム開発の**全工程**を経験してきました。大手企業向けのエンタープライズJavaシステム（通信・物流・小売インフラ・金融など）が中心で、プロジェクトリーダーとしてチームマネジメントも担っています。
 

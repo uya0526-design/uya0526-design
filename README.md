@@ -40,10 +40,10 @@ My reskilling isn't passive tutorial-watching — it's a deliberate, output-driv
 
 | Certification | Date |
 | :--- | :--- |
+| Python 3 エンジニア認定基礎試験 (Python 3 Certified Engineer, Basic) | 2025/11 |
 | AWS Certified SysOps Administrator – Associate | 2025/04 |
 | AWS Certified Solutions Architect – Associate | 2025/03 |
 | AWS Certified Cloud Practitioner | 2025/02 |
-| Python 3 エンジニア認定基礎試験 (Python 3 Certified Engineer, Basic) | 2025/11 |
 | JDLA Deep Learning for GENERAL (G検定) | 2020/07 |
 | 応用情報技術者 (Applied Information Technology Engineer) | 2010/06 |
 
